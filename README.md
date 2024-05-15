@@ -18,6 +18,14 @@
   - 💬 I'm 36 years old, currently living in Brazil. I have intermediate proficiency in English and knowledge of SQL, Python, JavaScript, HTML, and CSS.
 
   - ⚡ I am currently embarking on an exciting journey transitioning into the technology field. With over 8 years of solid experience in Human Resources, over the years, I have developed valuable skills such as negotiation, people and conflict management, indicator management, project and process management using agile methodologies, excellent verbal and non-verbal communication, and interpersonal relationships
+
+<h2>Recent Projects</h2>
+Back-End:
+- Registration System in Python <br>
+https://github.com/allecunhaa/Sistema_cadastro.git <br>
+Front-End:
+- Site only HTML and CSS <br>
+https://github.com/allecunhaa/site_felipe1.git
     
 <h3 align="left">Connect with me:</h3>
 <p align="left">
